@@ -1,7 +1,7 @@
 # CS417 Neural 2025
 
 A coursework repository for **Neural Networks**.  
-This project explores core neural network concepts through Python scripts and Jupyter notebooks.
+This repo explores core neural network concepts through Python scripts and Jupyter notebooks.
 
 ---
 
