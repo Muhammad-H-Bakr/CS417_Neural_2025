@@ -18,7 +18,7 @@ It focuses on understanding the network design, training, and evaluation through
 - A quick go-through for Python Basics.  
 - Utilization of Numpy; Numerical Python.  
 - Understanding perceptrons, and working on their implementation for single and multilayer networks.
-- (Stay Tuned)
+- (Stay Tuned for more)
 
 **Reference Repo**  
 https://github.com/mesmatmm/CS417_Fall2025
@@ -31,3 +31,4 @@ https://github.com/mesmatmm/CS417_Fall2025
 - Pycharm + Student license (Uni account); for those that don't have that: VSCode has good plugins that I will mention later.
 - Anaconda and how to make a jupyter notebook in it. (as a last resort)
 - Read about Python virtual environment (create, activate, deactivate, install packages). You will need it alot.
+- (Stay Tuned for more)
