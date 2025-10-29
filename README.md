@@ -14,11 +14,14 @@ It focuses on understanding the network design, training, and evaluation through
 
 ## ✅ Achieved Progress & Recap
 
-- Completed initial setup and repository structure.  
-- A quick go-through for Python Basics.  
-- Utilization of Numpy; Numerical Python.  
-- Understanding perceptrons, and working on their implementation for single and multilayer networks.
-- (Stay Tuned for more)
+- Completed initial setup and repository structure.
+- A quick go-through for Python Basics. [Sec1]
+- Learned the use of Jupyter Notebooks. (ipynb)    
+- Utilization of Numpy; Numerical Python. [Sec2]
+- Understanding perceptrons, and working on their implementation for single and multilayer networks. [Sec3/Sec4]
+- Training a Single Layer Preceptron using Delta rule. [Sec5]
+- Utilization of Matplot to plot using preceptrons. [Sec5]
+- (Stay Tuned for more).
 
 **Reference Repo**  
 https://github.com/mesmatmm/CS417_Fall2025
