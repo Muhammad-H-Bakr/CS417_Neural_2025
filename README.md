@@ -16,7 +16,7 @@ It focuses on understanding the network design, training, and evaluation through
 
 - Completed initial setup and repository structure.
 - A quick go-through for Python Basics. [Sec1]
-- Learned the use of Jupyter Notebooks. (ipynb)    
+- Learned the use of Jupyter Notebooks. (ipynb)
 - Utilization of Numpy; Numerical Python. [Sec2]
 - Understanding perceptrons, and working on their implementation for single and multilayer networks. [Sec3/Sec4]
 - Training a Single Layer Preceptron using Delta rule. [Sec5]
@@ -24,7 +24,7 @@ It focuses on understanding the network design, training, and evaluation through
 - (Stay Tuned for more).
 
 **Reference Repo**  
-https://github.com/mesmatmm/CS417_Fall2025
+<https://github.com/mesmatmm/CS417_Fall2025>
 
 ---
 
