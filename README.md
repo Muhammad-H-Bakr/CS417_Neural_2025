@@ -20,8 +20,9 @@ It focuses on understanding the network design, training, and evaluation through
 - Utilization of Numpy; Numerical Python. [Sec2]
 - Understanding perceptrons, and working on their implementation for single and multilayer networks. [Sec3/Sec4]
 - Training a Single Layer Preceptron using Delta rule. [Sec5]
-- Utilization of Matplot to plot using preceptrons. [Sec5]
-- (Stay Tuned for more).
+- Utilization of Matplotlib to plot using preceptrons. [Sec5]
+- Learning about different activation functions (sigmoid/tanh...) and error functions (MSE/...) [Sec6]
+- Learning Backpropagation to train a multilayer network [Sec6]
 
 **Reference Repo**  
 <https://github.com/mesmatmm/CS417_Fall2025>
