@@ -1,4 +1,6 @@
-#### Q1) write a method that takes a list and number and returns all the two numbers that equals to their sum
+# Tasks
+
+## Q1) write a method that takes a list and number and returns all the two numbers that equals to their sum
 
 * example
   * input: [1, 2, 3, 4, 5, 6] , 7
@@ -7,7 +9,7 @@
 
 ***
 
-#### Q2) write a method that takes a list and returns each number and it's freq
+## Q2) write a method that takes a list and returns each number and it's freq
 
 * example:
   * input: [ 1, 1 ,1 ,2 ,3, 4,4]
