@@ -1,0 +1,4 @@
+multi_fruit_freshness_dataset/
+fruits-360-100x100/
+.venv/
+data_config.pkl
